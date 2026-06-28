@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
