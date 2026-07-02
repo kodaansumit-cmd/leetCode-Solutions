@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Queue
@@ -160,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
