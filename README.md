@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Queue
