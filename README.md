@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
