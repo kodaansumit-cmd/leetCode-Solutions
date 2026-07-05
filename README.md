@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
