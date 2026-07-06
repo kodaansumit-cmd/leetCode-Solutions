@@ -196,4 +196,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
