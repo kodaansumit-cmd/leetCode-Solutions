@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0733-flood-fill) |
@@ -295,5 +298,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
