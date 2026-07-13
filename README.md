@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
