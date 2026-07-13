@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
