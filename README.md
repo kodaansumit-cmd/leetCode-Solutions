@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
