@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0733-flood-fill) |
