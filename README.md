@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0509-fibonacci-number) |
