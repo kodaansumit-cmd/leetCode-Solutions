@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3693-climbing-stairs-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
