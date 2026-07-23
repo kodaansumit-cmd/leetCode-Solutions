@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -427,5 +431,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
