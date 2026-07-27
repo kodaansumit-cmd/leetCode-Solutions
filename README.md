@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0018-4sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
