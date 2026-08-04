@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
