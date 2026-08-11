@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0018-4sum) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -579,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
