@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0796-rotate-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
