@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
