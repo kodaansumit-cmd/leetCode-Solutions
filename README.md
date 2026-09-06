@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0152-maximum-product-subarray) |
