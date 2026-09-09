@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1872-stone-game-viii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
