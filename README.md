@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0645-set-mismatch) |
