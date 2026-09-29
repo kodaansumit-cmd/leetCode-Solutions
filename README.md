@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
