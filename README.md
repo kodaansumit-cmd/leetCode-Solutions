@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
