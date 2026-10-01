@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1720-decode-xored-array) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
