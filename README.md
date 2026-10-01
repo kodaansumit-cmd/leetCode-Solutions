@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
