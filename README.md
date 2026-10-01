@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1720-decode-xored-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1720-decode-xored-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
