@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0393-utf-8-validation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0393-utf-8-validation) |
 | [0410-split-array-largest-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
