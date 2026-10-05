@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0869-reordered-power-of-2](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0869-reordered-power-of-2) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
