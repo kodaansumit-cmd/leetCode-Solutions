@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1642-furthest-building-you-can-reach](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1642-furthest-building-you-can-reach](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1903-largest-odd-number-in-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
