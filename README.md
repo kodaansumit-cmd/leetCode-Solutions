@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-single-threaded-cpu](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1383-maximum-performance-of-a-team](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1383-maximum-performance-of-a-team](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
