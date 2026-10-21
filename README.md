@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0355-design-twitter) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -925,12 +930,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1038,4 +1045,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
