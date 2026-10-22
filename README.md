@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1845-seat-reservation-manager](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1845-seat-reservation-manager](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
