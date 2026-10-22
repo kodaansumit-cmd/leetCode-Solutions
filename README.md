@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
