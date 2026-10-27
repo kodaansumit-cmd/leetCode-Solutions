@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0402-remove-k-digits) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0326-power-of-three) |
