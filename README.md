@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0901-online-stock-span) |
