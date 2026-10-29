@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0224-basic-calculator) |
