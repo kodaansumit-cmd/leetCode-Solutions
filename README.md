@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -1079,12 +1082,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
