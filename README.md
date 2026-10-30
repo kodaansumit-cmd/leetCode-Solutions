@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0383-ransom-note) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0901-online-stock-span) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0733-flood-fill](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -1087,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1094,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kodaansumit-cmd/leetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
